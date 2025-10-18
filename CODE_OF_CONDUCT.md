@@ -32,8 +32,7 @@ Maintainers have the right and responsibility to remove, edit, or reject comment
 
 If you experience or witness unacceptable behavior, or have any other concerns, please report it by emailing the project maintainers at:
 
-**[your-email@example.com]**  
-*(Please replace with an active email before publishing)*
+**[lokesh.hs46@gmail.com]**  
 
 All reports will be handled confidentially. We are committed to ensuring the privacy and safety of anyone who reports an issue.
 
