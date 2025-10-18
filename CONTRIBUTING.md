@@ -49,7 +49,7 @@ The maintainers will review your PR, suggest any needed changes, and merge it on
 ## Reporting Issues
 If you find a bug, want to suggest a feature, or see something that could be improved:
 
-1. [Open an issue](https://github.com/lokesh930/Micro-Finance_repo.git)
+1. [Open an issue](https://github.com/lokesh930/github-final-project.git)
 2. Provide as much detail as possible (steps to reproduce, expected vs. actual behavior)
 3. Label it appropriately (e.g., `bug`, `enhancement`, `question`)
 
