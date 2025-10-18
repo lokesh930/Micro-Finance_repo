@@ -1,3 +1,5 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 # Contributing Guidelines
 Thank you for considering contributing to this project! Your involvement helps us build better tools that support our mission to empower low-income individuals through accessible financial solutions.
 We welcome contributions of all kinds—whether you're fixing bugs, improving documentation, adding features, or sharing ideas.
